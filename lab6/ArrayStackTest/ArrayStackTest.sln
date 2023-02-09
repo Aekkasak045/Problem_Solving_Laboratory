@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStackTest", "ArrayStackTest\ArrayStackTest.csproj", "{7FA13B60-68E1-462E-B9B3-B756CBBD8F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayQueueTest", "ArrayQueueTest\ArrayQueueTest.csproj", "{8969E1A1-8B13-464D-B671-DFD28B10978D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7FA13B60-68E1-462E-B9B3-B756CBBD8F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FA13B60-68E1-462E-B9B3-B756CBBD8F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FA13B60-68E1-462E-B9B3-B756CBBD8F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8969E1A1-8B13-464D-B671-DFD28B10978D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8969E1A1-8B13-464D-B671-DFD28B10978D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8969E1A1-8B13-464D-B671-DFD28B10978D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8969E1A1-8B13-464D-B671-DFD28B10978D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
