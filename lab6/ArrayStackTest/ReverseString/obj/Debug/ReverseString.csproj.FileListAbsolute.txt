@@ -1,0 +1,11 @@
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\bin\Debug\ReverseString.exe.config
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\bin\Debug\ReverseString.exe
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\bin\Debug\ReverseString.pdb
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.Form1.resources
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.Properties.Resources.resources
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csproj.GenerateResource.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.exe
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\ReverseString\obj\Debug\ReverseString.pdb
