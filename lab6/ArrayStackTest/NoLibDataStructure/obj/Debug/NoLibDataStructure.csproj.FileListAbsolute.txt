@@ -1,0 +1,8 @@
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\bin\Debug\NoLibDataStructure.exe.config
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\bin\Debug\NoLibDataStructure.exe
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\bin\Debug\NoLibDataStructure.pdb
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.exe
+D:\งาน\Code_C#\Problem_Solving_Laboratory\lab6\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.pdb
