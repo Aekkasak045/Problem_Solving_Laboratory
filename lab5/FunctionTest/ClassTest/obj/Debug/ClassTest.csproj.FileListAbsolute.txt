@@ -1,0 +1,8 @@
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\obj\Debug\ClassTest.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\obj\Debug\ClassTest.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\bin\Debug\ClassTest.exe.config
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\bin\Debug\ClassTest.exe
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\bin\Debug\ClassTest.pdb
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\obj\Debug\ClassTest.exe
+D:\งาน\Code_C#\lab5\FunctionTest\ClassTest\obj\Debug\ClassTest.pdb

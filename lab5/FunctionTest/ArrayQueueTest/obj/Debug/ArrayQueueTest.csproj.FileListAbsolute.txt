@@ -1,0 +1,8 @@
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\bin\Debug\ArrayQueueTest.exe.config
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\bin\Debug\ArrayQueueTest.exe
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\bin\Debug\ArrayQueueTest.pdb
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\obj\Debug\ArrayQueueTest.csproj.AssemblyReference.cache
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\obj\Debug\ArrayQueueTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\obj\Debug\ArrayQueueTest.csproj.CoreCompileInputs.cache
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\obj\Debug\ArrayQueueTest.exe
+C:\Users\com021\Music\Thnnathat\Lab5\ArrayQueueTest\obj\Debug\ArrayQueueTest.pdb

@@ -1,0 +1,11 @@
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.Form1.resources
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.Properties.Resources.resources
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.csproj.GenerateResource.cache
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\bin\Debug\Mutiplication.exe.config
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\bin\Debug\Mutiplication.exe
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\bin\Debug\Mutiplication.pdb
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.exe
+D:\งาน\Code_C#\lab4\lab4\Mutiplication\obj\Debug\Mutiplication.pdb

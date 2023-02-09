@@ -1,0 +1,8 @@
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\bin\Debug\ArraystackTest.exe.config
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\bin\Debug\ArraystackTest.exe
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\bin\Debug\ArraystackTest.pdb
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\obj\Debug\ArraystackTest.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\obj\Debug\ArraystackTest.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\obj\Debug\ArraystackTest.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\obj\Debug\ArraystackTest.exe
+D:\งาน\Code_C#\lab5\FunctionTest\ArraystackTest\obj\Debug\ArraystackTest.pdb

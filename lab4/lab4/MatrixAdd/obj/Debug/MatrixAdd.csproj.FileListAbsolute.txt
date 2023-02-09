@@ -1,0 +1,11 @@
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\bin\Debug\MatrixAdd.exe.config
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\bin\Debug\MatrixAdd.exe
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\bin\Debug\MatrixAdd.pdb
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.Form1.resources
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.Properties.Resources.resources
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.csproj.GenerateResource.cache
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.exe
+D:\งาน\Code_C#\lab4\lab4\MatrixAdd\obj\Debug\MatrixAdd.pdb

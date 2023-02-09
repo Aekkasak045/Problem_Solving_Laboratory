@@ -1,0 +1,10 @@
+D:\งาน\Code_C#\lab4\Muti2\Muti2\bin\Debug\Muti2.exe.config
+D:\งาน\Code_C#\lab4\Muti2\Muti2\bin\Debug\Muti2.exe
+D:\งาน\Code_C#\lab4\Muti2\Muti2\bin\Debug\Muti2.pdb
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.csproj.AssemblyReference.cache
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.csproj.SuggestedBindingRedirects.cache
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.Properties.Resources.resources
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.csproj.GenerateResource.cache
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.csproj.CoreCompileInputs.cache
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.exe
+D:\งาน\Code_C#\lab4\Muti2\Muti2\obj\Debug\Muti2.pdb
